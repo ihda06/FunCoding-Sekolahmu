@@ -11,12 +11,12 @@
 
 .btn-outline-secondary{
     font-weight: 500;
-    color: #2325B3;
-    border: 1px solid #2325B3;
+    color: #2325B3 !important;
+    border: 1px solid #2325B3 !important;
 }
 
 .btn-secondary{
-    background-color: #2325B3;
-    color: white;
+    background-color: #2325B3 !important;
+    color: white !important;
     font-weight: 500;
 }
