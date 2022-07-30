@@ -1,0 +1,22 @@
+.input-group-text{
+    background-color: white !important;
+    border-left: 1px solid white !important;
+    border-radius: 25px;
+}
+
+.form-control{
+    border-right: 1px solid white !important;
+    border-radius: 25px;
+}
+
+.btn-outline-secondary{
+    font-weight: 500;
+    color: #2325B3;
+    border: 1px solid #2325B3;
+}
+
+.btn-secondary{
+    background-color: #2325B3;
+    color: white;
+    font-weight: 500;
+}

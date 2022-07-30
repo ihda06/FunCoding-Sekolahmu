@@ -1,0 +1,36 @@
+.card-title{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.card-subtitle{
+    font-size: 10px;
+    color: rgb(71, 71, 71);
+}
+
+.rating{
+    font-size: 10px;
+}
+
+.button p{
+    margin: 0;
+    font-size: 12;
+    font-weight: 800;
+    color: #2325B3;
+    cursor: pointer;
+}
+
+.card:active{
+    /* position: relative; */
+    box-shadow: 2px 2px rgb(47, 47, 47);
+    transform: translate(2px,2px);
+}
+
+.card{
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.card-image img{
+    border-radius: 5%;
+}
